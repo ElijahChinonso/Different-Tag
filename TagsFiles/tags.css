@@ -1,0 +1,93 @@
+body {
+    background-color: black;
+    color: white;
+}
+.my_pre{
+    font-family: Georgia, ui-sans-serif;
+}
+.forecast {
+    margin: 0;
+    padding: 10px;
+    background-color: midnightblue;
+    font: 1rem 'Fira Sans', sans-serif;
+}
+.forecast >h1 {
+    text-align: center;
+    color: white;
+    font-size: 50px;
+    font-family: Georgia , serif;
+}
+.forecast > h1,
+.the-forecast {
+    margin: 5rem;
+    padding: 3rem;
+}
+.the-forecast {
+    background: right/contain content-box border-box no-repeat
+    url('rain.png') white;
+}
+.the-forecast > h2,
+.the-forecast > p {
+    margin: 1rem;
+    font-size: 22px;
+    color: black;
+}
+.machala {
+    background-color: greenyellow;
+    color: black;
+    width: 600px;
+    border-radius: 5px;
+    margin: 0 auto;
+    height: 500px;
+}
+.artist-title > h1 {
+    background-color: crimson;
+    color: white;
+    width: 200px;
+    text-align: center;
+    border-radius: 3px;
+    margin-left: 190px;
+}
+.artist-title > h2 {
+    text-align: center;
+}
+.download > h3 {
+    background-color: white;
+    color: white;
+    width: 300px;
+    text-align: center;
+    border-radius: 100px;
+    margin-left: 142px;
+    border-bottom: 20px;
+}
+.song {
+    margin-left: 140px;
+}
+.download > p {
+    margin-left: 210px;
+}
+
+.audio-body > h5{
+    margin-left: 230px;
+    margin-bottom: 20px;
+}
+.image {
+    width: 200px;
+    height: 200px;
+    margin-left: 190px;
+}
+.adjustable {
+    color: greenyellow;
+}
+.tables {
+    background-color: crimson;
+    height: auto;
+    margin-bottom: 20px;
+    border-radius: 20%;
+}
+.table-1 {
+    margin-left: 35%;
+}
+.table-2 {
+    margin-left: 29%;
+}
